@@ -16,6 +16,7 @@ def get_current_weather(city="Kansas City"):
 
 
 if __name__ == "__main__":
+    print('\n***Welcome to Timi_Weather***\n')
     print('\n*** Get Current Weather Conditions ***\n')
 
     city = input("\nPlease enter a city name: ")
